@@ -25,13 +25,12 @@ Customize database name and more in `config.ini`.
 - User-friendly CLI/GUI
 - Data visualization
 
-## Structure of proeject 
 csv_to_database_conversion/
 │
 ├── data/
 │   ├── data.csv
 │   ├── backup/
-│   │   ├── database.db
+│   │   ├── backup_data.db
 │
 ├── config/
 │   ├── config.ini
@@ -46,4 +45,6 @@ csv_to_database_conversion/
 │
 ├── main.py
 ├── requirements.txt
+├── LICENSE
 ├── README.md
+
