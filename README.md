@@ -25,26 +25,4 @@ Customize database name and more in `config.ini`.
 - User-friendly CLI/GUI
 - Data visualization
 
-csv_to_database_conversion/
-│
-├── data/
-│   ├── data.csv
-│   ├── backup/
-│   │   ├── backup_data.db
-│
-├── config/
-│   ├── config.ini
-│
-├── src/
-│   ├── converter.py
-│   ├── database.py
-│
-├── tests/
-│   ├── test_converter.py
-│   ├── test_database.py
-│
-├── main.py
-├── requirements.txt
-├── LICENSE
-├── README.md
 
